@@ -1,6 +1,7 @@
 
 button {
 	background-color: black;
+	border: none;
 	color: while;
 	border-radius: 5px;	
 }
